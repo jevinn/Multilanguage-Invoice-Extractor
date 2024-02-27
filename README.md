@@ -2,7 +2,7 @@
 
 This is a Streamlit web application that utilizes Google's Generative AI model to extract information from invoices uploaded as images. It allows users to input a prompt and upload an invoice image, and then generates a response based on the uploaded image and the input prompt.
 
-## Getting Started
+## Installation
 
 To run this application locally, follow these steps:
 
@@ -32,7 +32,4 @@ To run this application locally, follow these steps:
 - `requirements.txt`: List of Python dependencies.
 - `.env`: Environment file for storing sensitive information (e.g., API keys).
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions, feature requests, or found a bug, please open an issue or submit a pull request.
 
